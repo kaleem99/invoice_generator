@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/invoice_generator/static/css/main.d33b87a4.css",
+    "main.js": "/invoice_generator/static/js/main.d8189508.js",
+    "static/js/453.97d18808.chunk.js": "/invoice_generator/static/js/453.97d18808.chunk.js",
+    "static/media/Logo.png": "/invoice_generator/static/media/Logo.526571ed6f8fca4d827b.png",
+    "static/media/logo.svg": "/invoice_generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/invoice_generator/index.html",
+    "main.d33b87a4.css.map": "/invoice_generator/static/css/main.d33b87a4.css.map",
+    "main.d8189508.js.map": "/invoice_generator/static/js/main.d8189508.js.map",
+    "453.97d18808.chunk.js.map": "/invoice_generator/static/js/453.97d18808.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33b87a4.css",
+    "static/js/main.d8189508.js"
+  ]
+}
